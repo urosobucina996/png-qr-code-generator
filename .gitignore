@@ -8,3 +8,6 @@
 
 # Generated images / output files
 *.png
+
+# Run file
+png
