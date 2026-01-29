@@ -1,0 +1,10 @@
+# Compiled binaries / executables
+*.out
+*.exe
+*.app
+*.o
+*.so
+*.a
+
+# Generated images / output files
+*.png
