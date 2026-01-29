@@ -7,7 +7,8 @@ It uses the **qrcodegen** library to create the QR code and **TinyPngOut** to wr
 ## Build
 ```bash
 gcc -Wall -Wextra -O2 -Iinclude src/png_maker.c src/TinyPngOut.c src/qrcodegen.c -o png
-
+```
 ## RUN
 ```bash
 echo "Hello world" | ./png
+```
